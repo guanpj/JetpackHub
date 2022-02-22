@@ -1,4 +1,4 @@
-package com.me.guanpj.jetpack.hub
+package com.me.guanpj.jetpackhub
 
 import org.junit.Test
 
